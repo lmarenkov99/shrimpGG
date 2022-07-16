@@ -1251,6 +1251,7 @@ header .menu .btn a:hover {
 
 .contacts .contacts-block a:hover {
   color: #6655e5;
+  background: #fff !important;
   text-decoration: underline;
 }
 
